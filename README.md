@@ -16,7 +16,7 @@ depending on methylation value.
 
 ### Model Training
 I selected 521 blood and 521 semen samples as a training set. Recursive feature elimination using a logistic regression model selected the 250 most informative regions between the two sample groups. 
-I then used Sample data at selected features to train a Random Forest, Logistic Regression, SVM, KNN, Neural Network, and GBC models. 
+I then used training set data at selected features to train a Random Forest, Logistic Regression, SVM, KNN, Neural Network, and GBC models. 
 
 ### Model Validation
 I selected 100 normal sperm samples and 100 contaminated sperm samples as a validation set. sensitivity and specificity values were generated using all 6 machine learning models. Hyperparameters, including thresholds and model size, were tuned using these data.
