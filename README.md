@@ -27,6 +27,7 @@ I used 4 pure and 12 contaminated samples (these were samples we processed and m
 ### Model Selection
 All models showed excellent sensitivity or specificity, but the Logistic Regression model performed the best in validation and testing. This model is now published on the Jenkins' Lab GitHub. 
 
+![Sensitivity_Specificity](https://github.com/carternorton11/SomaticLike-ML/assets/99043737/83eb4595-ab57-4651-97f0-de637a9c67bc)
 
 
 
